@@ -1,0 +1,133 @@
+[
+  {
+    "product_id": "1",
+    "product_catagory": "Cake",
+    "product_title": "Black Magic Cake",
+    "product_description": "Dark Chocolate Espresso cake with Marshmallow frosting",
+    "product_image": "wwwroot/data/product_images/Black Magic Cake.png",
+    "product_price": 35
+  },
+  {
+    "product_id": "2",
+    "product_catagory": "Cake",
+    "product_title": "Buttered Pecan Fruitcake",
+    "product_description": "10 in round",
+    "product_image": "\\data\\product_images\\Buttered Pecan Fruitcake.png",
+    "product_price": 50
+  },
+  {
+    "product_id": "3",
+    "product_catagory": "Brownie",
+    "product_title": "Dark Chocolate Brownie",
+    "product_description": "9 - pack",
+    "product_image": "\\data\\product_images\\DarkChocBrownie.png",
+    "product_price": 35,
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+  {
+    "product_id": "4",
+    "product_catagory": "Brownie",
+    "product_title": "Semi-Sweet Fudge Brownie",
+    "product_description": "9 - pack",
+    "product_image": "\\data\\product_images\\SemiSweetFudgeBrownie.png",
+    "product_price": 20,
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+  {
+    "product_id": "5",
+    "product_catagory": "Brownie",
+    "product_title": "Turtle Brownie",
+    "product_description": "9 - pack chocolate pecan caramel brownie",
+    "product_image": "\\data\\product_images\\TurtleBrownie.png",
+    "product_price": 20,
+    "Ratings": null
+  },
+  {
+    "product_id": "6",
+    "product_catagory": "Cheese Cake",
+    "product_title": "Caramel Pretzel Cheesecake",
+    "product_description": "10 in round",
+    "product_image": "\\data\\product_images\\Caramel Pretzel Cheesecake.png",
+    "product_price": 60
+  },
+  {
+    "product_id": "7",
+    "product_catagory": "Cheese Cake",
+    "product_title": "Oreo Cheesecake",
+    "product_description": "10 in round",
+    "product_image": "",
+    "product_price": 60,
+    "Ratings": null
+  },
+  {
+    "product_id": "8",
+    "product_catagory": "Cookie",
+    "product_title": "Chocolate Chip Cookies",
+    "product_description": "12 large cookies",
+    "product_image": "",
+    "product_price": 26,
+    "Ratings": null
+  },
+  {
+    "product_id": "9",
+    "product_catagory": "Cookie",
+    "product_title": "Peanut Butter Cookies",
+    "product_description": "12 large cookies",
+    "product_image": "",
+    "product_price": 26,
+    "Ratings": null
+  },
+  {
+    "product_id": "10",
+    "product_catagory": "Cookie",
+    "product_title": "Trilbie",
+    "product_description": "6 date filled sandwich cookies",
+    "product_image": "",
+    "product_price": 30,
+    "Ratings": null
+  },
+  {
+    "product_id": "11",
+    "product_catagory": "Cupcake",
+    "product_title": "Vanilla Sprinkle Cupcake",
+    "product_description": "6 - pack",
+    "product_image": "",
+    "product_price": 20,
+    "Ratings": null
+  },
+  {
+    "product_id": "12",
+    "product_catagory": "Cupcake",
+    "product_title": "Oreo Cupcake",
+    "product_description": "6 - pack",
+    "product_image": "",
+    "product_price": 20,
+    "Ratings": null
+  },
+  {
+    "product_id": "13",
+    "product_catagory": "Muffin",
+    "product_title": "Blueberry muffin",
+    "product_description": "6 - pack",
+    "product_image": "",
+    "product_price": 16,
+    "Ratings": null
+  },
+  {
+    "product_id": "14",
+    "product_catagory": "Muffin",
+    "product_title": "Triple Berry Muffin",
+    "product_description": "6 - pack",
+    "product_image": "",
+    "product_price": 16,
+    "Ratings": null
+  }
+
+
+]

@@ -1,0 +1,10 @@
+﻿@page
+@using CGC.Components
+@model IndexModel
+@{
+    ViewData["Product_title"] = "Home page";
+}
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
